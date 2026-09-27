@@ -45,7 +45,6 @@ Cleaned a complex payments dataset and produced revenue trend, fraud pattern, an
 ## 📫 Get in touch
 
 - 📧 [allananthony343@gmail.com](mailto:allananthony343@gmail.com)
-- 📱 +254 717 298 323
 - 💼 [LinkedIn](https://www.linkedin.com/in/allan-anthony-mwangi)
 - 🐙 [GitHub](https://github.com/allananthony343-code)
 
